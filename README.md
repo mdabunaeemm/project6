@@ -1,21 +1,17 @@
-# Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+# Getting Started with Create React App
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+## Available Scripts
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+In the project directory, you can run:
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+### `yarn start`
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `yarn test`
